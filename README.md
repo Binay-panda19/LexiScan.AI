@@ -1,3 +1,5 @@
+<h1>LexiScan.AI</h1>
+
 LexiScan AI is a legal document analysis tool built for the VIT Hackathon by Team TechStorm. It leverages semantic search, clause extraction, and AI-powered summaries to turn weeks of manual legal document review into minutes.
 
 
